@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Serg 👋
+# Hey 👋
 
 ### Backend engineer · iOS developer · curious builder
 
