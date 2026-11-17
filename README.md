@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm sergdeathless
 
-### Data Scientist / ML Engineer · iOS Developer · Backend Engineer
+### Data Scientist / ML Engineer · iOS Developer
 
-Python, Swift, data-driven products and practical software.
+Python, Swift.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sergdeathless-181717?style=flat-square&logo=github)](https://github.com/sergdeathless)
 [![Profile views](https://komarev.com/ghpvc/?username=sergdeathless&style=flat-square&color=blueviolet)](https://github.com/sergdeathless)
@@ -14,8 +14,8 @@ Python, Swift, data-driven products and practical software.
 ## Focus
 
 - Data Science & Machine Learning
+- BI visualisation systems
 - iOS development with Swift and SwiftUI
-- Backend development with Python
 
 ## Skills
 
@@ -29,8 +29,6 @@ Python, Swift, data-driven products and practical software.
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## GitHub Stats
