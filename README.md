@@ -14,8 +14,8 @@ I work across the data science workflow, from cleaning data and testing hypothes
 
 ## Skills
 
-- **Machine learning** · Time series forecasting, computer vision, feature engineering, scikit-learn, PyTorch, TensorFlow, statsmodels
-- **Data analysis & BI** · pandas, NumPy, PostgreSQL, Power BI, Plotly
+- **Machine learning** · Time series forecasting, computer vision, feature engineering, cross-validation, scikit-learn, PyTorch, TensorFlow, statsmodels
+- **Data analysis & BI** · ETL, pandas, NumPy, PostgreSQL, Power BI, Plotly
 - **iOS development** · SwiftUI, XCTest, XCUITest
 - **Tools** · Git, Docker, Jupyter, GitHub Actions (CI/CD)
 
