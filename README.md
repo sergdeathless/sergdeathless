@@ -27,10 +27,10 @@ I build and validate ML models, turn data into dashboards, and develop iOS apps 
 
 ## Education & Honors
 
-- Master’s student at the Moscow Institute of Physics and Technology (MIPT)
-- Bachelor’s degree and high school diploma, both with honors
-- Presidential Scholarship recipient
-- Published in a VAK-listed academic journal
-- Professional development certificate · Sirius University × Yandex intensive (2026)
+- **MIPT** · Master’s student at the Moscow Institute of Physics and Technology
+- Bachelor’s degree and high school diploma, both **with honors**
+- **Presidential Scholarship** recipient
+- **Research** · Publication in a VAK-listed academic journal
+- **Sirius University × Yandex (2026)** · Professional development certificate. Placed in the top 45 in the nationwide selection.
 
 **Languages** · Russian (native), English (B2)
