@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm sergdeathless
+# Hi, I'm sergdeathless 👋
 
-### Data Scientist · ML Engineer · iOS Developer
+**Data Scientist · ML Engineer · iOS Developer**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
