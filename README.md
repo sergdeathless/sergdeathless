@@ -26,3 +26,6 @@ I work across the data science workflow, from cleaning data and testing hypothes
 - Bachelor’s degree and high school diploma, both with honors
 - Presidential Scholarship recipient
 - Published in a VAK-listed academic journal
+- Professional development certificate · Sirius University × Yandex intensive (2026)
+
+**Languages** · Russian (native), English (B2)
