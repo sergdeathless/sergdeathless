@@ -13,7 +13,7 @@
 
 </div>
 
-I work across the data science workflow, from cleaning data and testing hypotheses to evaluating models and building dashboards.
+I build and validate ML models, turn data into dashboards, and develop iOS apps with SwiftUI. My data workflow spans ETL, exploratory analysis, and hypothesis testing.
 
 ## Skills
 
