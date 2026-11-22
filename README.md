@@ -8,6 +8,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
+![Profile views](https://komarev.com/ghpvc/?username=sergdeathless&style=flat-square&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/sergdeathless?style=flat-square&logo=github&color=blueviolet)](https://github.com/sergdeathless?tab=followers)
+
 </div>
 
 I work across the data science workflow, from cleaning data and testing hypotheses to evaluating models and building dashboards.
