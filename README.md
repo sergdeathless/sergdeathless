@@ -9,9 +9,8 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 ![Profile views](https://komarev.com/ghpvc/?username=sergdeathless&style=flat-square&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/sergdeathless?style=flat-square&logo=github&color=blueviolet)](https://github.com/sergdeathless?tab=followers)
 
-[Skills](#skills) · [Education](#education--honors) · [GitHub Achievements](https://github.com/sergdeathless?tab=achievements)
+[Skills](#skills) · [Education](#education--honors)
 
 </div>
 
@@ -34,5 +33,3 @@ I build and validate ML models, turn data into dashboards, and develop iOS apps 
 - **Presidential Scholarship** recipient
 - **Research** · Publication in a VAK-listed academic journal
 - **Sirius University × Yandex (2026)** · Professional development certificate. Placed in the top 45 in the nationwide selection.
-
-**Languages** · Russian (native), English (B2)
