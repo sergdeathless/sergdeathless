@@ -22,7 +22,7 @@ I build and validate ML models, turn data into dashboards, and develop iOS apps 
 | **ML & statistics** | Time series forecasting, computer vision, NLP, deep learning, feature engineering, cross-validation, bootstrap resampling |
 | **ML stack** | scikit-learn, PyTorch, TensorFlow, statsmodels, OpenCV |
 | **Data & BI** | ETL, pandas, NumPy, PostgreSQL, Power BI, Plotly, Matplotlib |
-| **iOS development** | SwiftUI, XCTest, XCUITest |
+| **iOS development** | SwiftUI, peer-to-peer connectivity with MultipeerConnectivity, unit and UI testing with XCTest and XCUITest |
 | **Development** | Git, Docker, Jupyter, GitHub Actions (CI/CD) |
 
 ## Education & Honors
