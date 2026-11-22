@@ -2,31 +2,26 @@
 
 # Hi 👋, I'm sergdeathless
 
-### Data Scientist / ML Engineer · iOS Developer
+### Data Scientist · ML Engineer · iOS Developer
 
-Python, Swift.
-
-[![GitHub](https://img.shields.io/badge/GitHub-sergdeathless-181717?style=flat-square&logo=github)](https://github.com/sergdeathless)
-[![Profile views](https://komarev.com/ghpvc/?username=sergdeathless&style=flat-square&color=blueviolet)](https://github.com/sergdeathless)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 </div>
 
-## Focus
-
-- Data Science & Machine Learning
-- BI visualisation systems
-- iOS development with Swift and SwiftUI
+I work across the data science workflow, from cleaning data and testing hypotheses to evaluating models and building dashboards.
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+- **Machine learning** · Time series forecasting, computer vision, feature engineering, scikit-learn, PyTorch, TensorFlow, statsmodels
+- **Data analysis & BI** · pandas, NumPy, PostgreSQL, Power BI, Plotly
+- **iOS development** · SwiftUI, XCTest, XCUITest
+- **Tools** · Git, Docker, Jupyter, GitHub Actions (CI/CD)
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+## Education & Honors
+
+- Master’s student at the Moscow Institute of Physics and Technology (MIPT)
+- Bachelor’s degree and high school diploma, both with honors
+- Presidential Scholarship recipient
+- Published in a VAK-listed academic journal
