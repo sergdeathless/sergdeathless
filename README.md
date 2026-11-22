@@ -11,6 +11,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=sergdeathless&style=flat-square&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/sergdeathless?style=flat-square&logo=github&color=blueviolet)](https://github.com/sergdeathless?tab=followers)
 
+[Skills](#skills) · [Education](#education--honors) · [GitHub Achievements](https://github.com/sergdeathless?tab=achievements)
+
 </div>
 
 I build and validate ML models, turn data into dashboards, and develop iOS apps with SwiftUI. My data workflow spans ETL, exploratory analysis, and hypothesis testing.
